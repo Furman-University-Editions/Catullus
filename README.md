@@ -4,11 +4,11 @@
 
 ## Specific Projects
 
-- Latin 331: Fall 2019
+- [Latin 331: Fall 2019](https://github.com/Furman-University-Editions/Catullus/blob/master/projects/latin331.md)
 
 ## Misc.
 
-- Fun Facts about the language of Catullus
+- [Fun Facts about the language of Catullus](https://github.com/Furman-University-Editions/Catullus/blob/master/Catullus64_fun_facts.md)
 
 ## Collections
 
