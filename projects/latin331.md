@@ -15,6 +15,7 @@
 
 	- As you draw rectangles around your text, grab the source address and stick it in a separate document throughout the entire transcription process (see next step).
 	- Dr. Blackwell and I will be available for extra help on this portion of the assignment during lab hours (tbd).
+	- **Open [this link](https://github.com/Furman-University-Editions/Catullus/blob/master/projects/markdown.md) to see instructions for setting up a document for recording observations.**
 
 2.	Make a diplomatic transcription of the text in a separate document. This essentially means writing down the letters you see. Use sub-linear dots to indicate letters you are not certain of. Use square brackets to indicate any holes or gaps in the manuscript or if the beginning or ends of lines are incomplete.   
 
@@ -36,7 +37,7 @@
 
 	- This comparative analysis should be typed.
 
-7.	**December 3 meeting:** Introduction to Markdown and explanation of presentation guidelines. The presentations are an opportunity for students to illustrate their final findings with images of specific stuff in the manuscripts. Each team should have a title for their presentation, and should incorporate images of their manuscript into the presentation.
+7.	**December 3 meeting:** Explanation of presentation guidelines. The presentations are an opportunity for students to illustrate their final findings with images of specific stuff in the manuscripts. Each team should have a title for their presentation, and should incorporate images of their manuscript into the presentation.
 
 8.	Mock presentations between December 9 and 12. Each team will do a run-through of their talk and will receive suggestions for improvement in preparation of the final presentation.
 
