@@ -4,9 +4,17 @@
 ## Teams & Folios
 
 - Brie & Nathan – [Paris 14137, fol. 25v ](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:paris14137.2019a:paris14137_53)
-- Tate & Luke – [Bodlian 30, fol. 21r](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:bodlian30.2019a:bodlian30_47)
-- Chris & Michael – [Codex Bodmer 47, fol. 38v](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:codbod47.2019a:bod47_80_38v_0)
+	- [Bodlian 30, fol. 25v](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:bodlian30.2019a:bodlian30_56) & [26r](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:bodlian30.2019a:bodlian30_57)
+	- [Bodmer 47, fol. 41v](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:codbod47.2019a:bod47_90_43v_0) and [42r](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:codbod47.2019a:bod47_87_42r_0)
+	- [Incunable, image 70](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:croat24.2019a:000617224_71) & [image 71](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:croat24.2019a:000617224_71)
+- Tate, Luke, & Michael – [Bodlian 30, fol. 21r](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:bodlian30.2019a:bodlian30_47)
+	- [Paris 14137, fol. 19v](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:paris14137.2019a:paris14137_43) & [204](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:paris14137.2019a:paris14137_44)
+	- [Bodmer 47, fol. 34r](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:codbod47.2019a:bod47_70_34r_0) & [34v](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:codbod47.2019a:bod47_71_34v_0)
+	- [Incunable image 58](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:croat24.2019a:000617224_58), [image 59](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:croat24.2019a:000617224_59), [image 60](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:croat24.2019a:000617224_60)
 - Hope & Olivia – [Codex Bodmer 47, fol. 43r](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0)
+	- [Bodlian 30, fol. 26v](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:bodlian30.2019a:bodlian30_58) & [27r](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:bodlian30.2019a:bodlian30_59)
+	- [Paris 14137 25r](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:paris14137.2019a:paris14137_54) & [25v](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:paris14137.2019a:paris14137_55)
+	- [Incunable image 71](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:croat24.2019a:000617224_71) & [image 72](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:croat24.2019a:000617224_72)
 
 
 ## Instructions
