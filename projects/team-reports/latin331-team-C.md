@@ -82,6 +82,9 @@ Spelling error: "foelici" should be "felici." This spelling error is interesting
 
 ## 374 Dedatur cupido iam dudum nupta marito.
 
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3118,0.5626,0.05757,0.02752&wID=250&CVT=JPEG)
+
+dudu abbreviated - dudum
 ## 375 Currite ducentes subtegmina currite fusi.
 
 ## 376 Non illam nutrix orienti luce revisens,
