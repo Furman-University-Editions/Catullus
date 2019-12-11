@@ -122,7 +122,7 @@ Spelling error: "moesta" should be "maesta"
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2164,0.6305,0.07714,0.03119&wID=250&CVT=JPEG)
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1101,0.7263,0.08562,0.03706&wID=250&CVT=JPEG)
 
-Compare the handwriting in lines 373, 376, and 379. Compare the 'nx' in coniunx, the 'ix' in nutrix, and the 'nx' in anxia. The way the 'nx' looks in anxia makes it likely that the coniunx in 373 is misspelled, with the scribe actually writing coniurx in the manuscript. Coniunx and nutrix look more similar than coniunx and anxia.
+Compare the handwriting in lines 373, 376, and 379. Notice the 'nx' in coniunx, the 'ix' in nutrix, and the 'nx' in anxia. The way the 'nx' looks in anxia makes it likely that the coniunx in 373 is misspelled, with the scribe actually writing coniurx in the manuscript. Coniunx and nutrix look more similar than coniunx and anxia.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3567,0.6290,0.04599,0.02336&wID=250&CVT=JPEG)
 
@@ -139,47 +139,85 @@ The scribe uses a lot of punctuation. In particular, he often uses periods, comm
 ### Edition
 
 Alta tepefaciet permista flumina caede:
+
 Currite ducentes subtegmina currite fusi.
+
 Denique testis erit morti quoque reddita praeda:
+
 Quom terrae excelso coaceruatum aggere bustum,
+
 Excipiet niveos percussae virginis artus.
+
 Currite ducentes subtegmina currite fusi.
+
 Nam simul ac fessis dederit sors copia Achivis,
+
 Urbis Dardaniae Neptunia solvere tecta,
+
 Alta Polyxenia madefient caede sepulchra.
+
 Quae velut ancipiti succumbens victima ferro,
+
 Proiiciet truncum submisso poplite corpus:
+
 Currite ducentes subtegmina currite fusi.
+
 Quare agite optatos animis coniungere amores:
+
 Accipiat coniurx foelici foedere divam.
+
 Dedatur cupido iam dudum nupta marito.
+
 Currite ducentes subtegmina currite fusi.
+
 Non illam nutrix orienti luce revisens,
+
 Hesterno coluum poterit circundare filo.
+
 Currite ducentes subtegmina currite fusi.
+
 Anxia nec mater discordit moesta puellae.
 
 ### Translation
 
 He will warm the deep river with blood having been mixed in:
+
 Run spindles, run leading the cross-threads.
+
 And then the plunder also returned for death will be a witness:
+
 When the mound was heaped up with a lofty pile of the earth,
+
 It will draw out the snowy limbs of the virgin having been struck through.
+
 Run spindles, run leading the cross-threads. 
+
 For as soon as chance will have given the tired Greeks the opportunity,
+
 To loosen the Neptunian roofs of the Dardanian city,
+
 The deep tombs will become wet with the blood of Polyxenia, 
+
 Who, just as a victim succumbing to the two-headed sword,
+
 She will throw forth her headless corpse onto the knee having been collapsed:
+
 Run spindles, run leading the cross-threads.
+
 Therefore come to unite the hoped-for love to the mind.
+
 May the husband receive the goddess in happy agreement,
+
 May the bride be given to her eager husband now after so long.
+
 Run spindles, run leading the cross-threads.
+
 The wet nurse returning to her with the rising light,
+
 Will not be able to encircle the neck with the thread of yesterday,
+
 Run spindles, run leading the cross-threads.
+
 Nor will the anxious sad mother of the girl quarrel.
 
 ### Manuscript Comparisons
