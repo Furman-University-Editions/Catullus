@@ -30,6 +30,10 @@ This symbol repeats with every recurrence of "currite ducentes subtegmina currit
 
 "Quom" is the archaic spelling of "cum"
 
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1778,0.2147,0.06360,0.02654&wID=250&CVT=JPEG)
+
+genitive, "terrae" means "of the Earth." Compare to Thompson's edition "teres" which means "round." It is interesting that both interpretations make sense within the context of the sentence. 
+
 ## 364 Excipiet niveos percussae virginis artus.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2684,0.2430,0.1034,0.02862&wID=250&CVT=JPEG)
@@ -68,7 +72,11 @@ Spelling error, likely copied from manuscript G: manuscript G wrote "proiciet" a
 
 ## 371 Currite ducentes subtegmina currite fusi.
 
-# 372 Quare agite optatos animis coniungere amores:
+## 372 Quare agite optatos animis coniungere amores:
+
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3787,0.4930,0.1029,0.04195&wID=250&CVT=JPEG)
+
+abbreviated form of infinitive "coniungere" - the symbol above the u means to add an n
 
 ## 373 Accipiat coniurx foelici foedere divam.
 
@@ -84,7 +92,8 @@ Spelling error: "foelici" should be "felici." This spelling error is interesting
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3118,0.5626,0.05757,0.02752&wID=250&CVT=JPEG)
 
-dudu abbreviated - dudum
+abbreviated form of "dudum" - the symbol above the u means to add an m
+
 ## 375 Currite ducentes subtegmina currite fusi.
 
 ## 376 Non illam nutrix orienti luce revisens,
@@ -95,7 +104,7 @@ dudu abbreviated - dudum
 
 Spelling error: "coluum" should be "collum"
 
-![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2004,0.6629,0.06751,0.02483&wID=250&CVT=JPEG)
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3392,0.6602,0.1053,0.03143&wID=250&CVT=JPEG)
 
 Spelling error: "circundare" should be "circumdare"
 
@@ -118,3 +127,60 @@ Compare the handwriting in lines 373, 376, and 379. Compare the 'nx' in coniunx,
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3567,0.6290,0.04599,0.02336&wID=250&CVT=JPEG)
 
 Handwriting note: When e's occur at the end of the word, they have flourishes
+
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.4459,0.1489,0.1566,0.02605&wID=600&CVT=JPEG)
+
+The scribe used lines to write in stright lines: there are horizontal lines drawn under each line of poetry and vertical lines drawn at the beginning and end of each line.
+
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1042,0.4724,0.4555,0.08721&wID=500&CVT=JPEG)
+
+The scribe uses a lot of punctuation. In particular, he often uses periods, commas, and colons after each line.
+
+### Edition
+
+Alta tepefaciet permista flumina caede:
+Currite ducentes subtegmina currite fusi.
+Denique testis erit morti quoque reddita praeda:
+Quom terrae excelso coaceruatum aggere bustum,
+Excipiet niveos percussae virginis artus.
+Currite ducentes subtegmina currite fusi.
+Nam simul ac fessis dederit sors copia Achivis,
+Urbis Dardaniae Neptunia solvere tecta,
+Alta Polyxenia madefient caede sepulchra.
+Quae velut ancipiti succumbens victima ferro,
+Proiiciet truncum submisso poplite corpus:
+Currite ducentes subtegmina currite fusi.
+Quare agite optatos animis coniungere amores:
+Accipiat coniurx foelici foedere divam.
+Dedatur cupido iam dudum nupta marito.
+Currite ducentes subtegmina currite fusi.
+Non illam nutrix orienti luce revisens,
+Hesterno coluum poterit circundare filo.
+Currite ducentes subtegmina currite fusi.
+Anxia nec mater discordit moesta puellae.
+
+### Translation
+
+He will warm the deep river with blood having been mixed in:
+Run spindles, run leading the cross-threads.
+And then the plunder also returned for death will be a witness:
+When the mound was heaped up with a lofty pile of the earth,
+It will draw out the snowy limbs of the virgin having been struck through.
+Run spindles, run leading the cross-threads. 
+For as soon as chance will have given the tired Greeks the opportunity,
+To loosen the Neptunian roofs of the Dardanian city,
+The deep tombs will become wet with the blood of Polyxenia, 
+Who, just as a victim succumbing to the two-headed sword,
+She will throw forth her headless corpse onto the knee having been collapsed:
+Run spindles, run leading the cross-threads.
+Therefore come to unite the hoped-for love to the mind.
+May the husband receive the goddess in happy agreement,
+May the bride be given to her eager husband now after so long.
+Run spindles, run leading the cross-threads.
+The wet nurse returning to her with the rising light,
+Will not be able to encircle the neck with the thread of yesterday,
+Run spindles, run leading the cross-threads.
+Nor will the anxious sad mother of the girl quarrel.
+
+### Manuscript Comparisons
+
