@@ -136,7 +136,8 @@ The scribe used lines to write in stright lines: there are horizontal lines draw
 
 The scribe uses a lot of punctuation. In particular, he often uses periods, commas, and colons after each line.
 
-### Edition
+
+## Edition
 
 Alta tepefaciet permista flumina caede:
 
@@ -178,7 +179,8 @@ Currite ducentes subtegmina currite fusi.
 
 Anxia nec mater discordit moesta puellae.
 
-### Translation
+
+## Translation
 
 He will warm the deep river with blood having been mixed in:
 
