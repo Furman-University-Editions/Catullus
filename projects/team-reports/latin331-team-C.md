@@ -228,6 +228,8 @@ Nor will the anxious sad mother of the girl quarrel.
 
 We put all the differences we observed in the manuscripts in parentheses next to the word that changed between our manuscript and the manuscript in question.
 
+Note: Bodmer 47 is the newest out of all the manuscripts we compared it to, making it the most "compromised" copy of Catullus 64 it this group.
+
 ### Thompson's Edition
 373 Accipiat coniurx (coniunx) foelici (felici) foedere divam (punctuation change from . to ,)
 
@@ -250,6 +252,14 @@ We put all the differences we observed in the manuscripts in parentheses next to
 
 Notes:
  There are several punctuation changes in Thompson’s edition compared to our manuscript. Thompson also corrects a lot of Bodmer 47’s spelling errors. In addition, there is a grammatical change in line 379, he changes discordit in Bodmer 47 to discordis.
+ 
+Other Differences We Noticed Not Shown Above:
+
+The translation of 372: 'Therefore come to unite the hoped-for love to the mind' (Bodmer 47) is awkward compared to Thompson’s edition, which translates as 'therefore come unite the hoped-for love of the mind.' (There is a grammatical switch from animis in Bodmer 47 to animi in Thompson, the word goes from genitive to dative.)
+
+In line 363, Bodmer 47 has the word terrae, which means ‘of the Earth’. Thompson, however, has teres, which means ‘round’. The sentence still makes sense despite this switch.
+
+In 367, Bodmer 47 has the word tecta, which means ‘roof’. Thompson has vincla, which means ‘chains’. The sentence still makes sense despite this switch.
 
 ### Thompson's Apparatus Criticus
 
