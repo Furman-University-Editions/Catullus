@@ -230,6 +230,8 @@ We put all the differences we observed in the manuscripts in parentheses next to
 
 Note: Bodmer 47 is the newest out of all the manuscripts we compared it to, making it the most "compromised" copy of Catullus 64 it this group.
 
+abbreviations are noted ab.
+
 ### Thompson's Edition
 373 Accipiat coniurx (coniunx) foelici (felici) foedere divam (punctuation change from . to ,)
 
@@ -330,5 +332,3 @@ Notes:
 This manuscript has small spaces between words compared to Bodmer 47. Bodmer 47 likely copied from this manuscript because they share a lot of the same spelling errors, and they both have punctuation. In addition, Bodmer 47 was created 1495, 8 years after this manuscript. Bodmer 47 has a few punctuation changes compared to Antonii Parthenii’s manuscript. Both Bodmer 47 and Catulli Carmina cum comm. Antonii Parthenii probably copied from G because they have similar spellings of proiiciet in line 370. In addition, G is the oldest of the three manuscripts. It seems like Atonii Parthenii wrote out all the abbreviations seen in G and then Bodmer 47 copied from his which is why it has the least abbreviations of all the manuscripts. 
 
 Additional evidence that Bodmer 47 and C.C.c.c.A.P. copied from G: G has an abbreviated form of submisso (sūmisso) in line 370, while the 14 c. manuscript just has sumisso with no symbol showing it is an abbreviation. Thompson notes this in the apparatus criticus: sumisso O. He switches the spelling in his own text to be ‘summiso’. This is because the ‘bm’ in submisso became assimilated into ‘mm’ and the word became summiso. The sumisso spelling in O that he noted in ap. crit. is a misspelled version of the more archaic submisso that is seen in Bodmer 47 and G. This also supports the idea that the 14th c. manuscript came from a different source than the rest of the manuscripts we looked at because it has the same spelling ‘sumisso’ as O.
-
-
