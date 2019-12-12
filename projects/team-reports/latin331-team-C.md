@@ -278,6 +278,26 @@ Currite ducentes (ab. ducētes - ducentes) subtegmina (ab. sb’tegmina - subteg
 
 Anxia nec mater discordit moesta puellae (not included at all in this manuscript, scribe gaps lines 379 and 380 and goes straight to talia...)
 
+Notes:
+There is no punctuation, and there are a lot of abbreviations. This manuscript seems to come from a different source than G because it is the most different from the rest of the manuscripts (and the other two probably came from G).
+
+### Manuscript Paris 14137 (G) folio 26v (1375)
+Accipiat coniurx (ab. coniūx - coniunx) foelici (felici) foedere (federe) divam.
+
+Dedatur cupido iam dudum (ab. dudu in Bodmer 47. Not ab. here) nupta marito.
+
+Currite ducentes subtegmina (sub tegmina) currite fusi.
+
+Non illam nutrix orienti luce revisens
+
+Hesterno (Externo) coluum (collum) poterit circundare (ab. circūdare - circumdare) filo.
+
+Currite ducentes subtegmina (sub tegmina) currite (ab. curīte - currite) fusi.
+
+Anxia nec mater discordit (discordis) moesta (mesta) puellae (puelle). (more spelling errors in this line, perhaps his hand got tired?)
+
+Note:
+This manuscript has abbreviations and punctuation. It has less abbreviations than the 14th c. manuscript because the 14th c. manuscript likely came from a different source than G.
 
 ### Manuscript Catulli Carmina cum comm. Antonii Parthenii, Image 71 and 72 (1487)
 
