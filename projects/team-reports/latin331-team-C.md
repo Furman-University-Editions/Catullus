@@ -222,5 +222,75 @@ Run spindles, run leading the cross-threads.
 
 Nor will the anxious sad mother of the girl quarrel.
 
-### Manuscript Comparisons
+## Manuscript Comparisons
+
+We put all the differences we observed in the manuscripts in parentheses next to the word that changed between our manuscript and the manuscript in question.
+
+### Thompson's Edition
+373     Accipiat coniurx (coniunx) foelici (felici) foedere divam (punctuation change           from . to ,)
+374	    Dedatur cupido iam dudum nupta marito.
+375	    Currite ducentes subtegmina currite fusi.
+        (based on the apparatus criticus, (378 (=375))Thompson places 378 here in his edition, which means he combines the repeated lines 375 and 378...however, he later adds one of these repetitions to 381. At first we thought he simply moved 378 to 381, but his note in the apparatus criticus says otherwise. This is very interesting)
+376 	Non illam nutrix orienti luce revisens
+377	    Hesterno coluum (collum) poterit circundare (circumdare) filo (punctuation              change from . to ,)
+(378	Currite ducentes subtegmina currite fusi. is placed here in Bodmer 47)
+379	    Anxia nec mater discordit (discordis) moesta (maesta) puellae. (punctuation             change, Thompson gets rid of period)
+380	    subcubito caros mittet sperare nepotes (this is not part of our selection, it is         just interesting to note his line changes)
+381	    Currite ducentes subtegmina currite fusi. (see note after 375)	
+
+Notes:
+
+ There are several punctuation changes in Thompson’s edition compared to our manuscript. Thompson also corrects a lot of Bodmer 47’s spelling errors. In addition, there is a grammatical change in line 379, he changes discordit in Bodmer 47 to discordis.
+
+### Thompson's Apparatus Criticus
+
+377 hesterno γ: esterno O, externo GR
+
+(Since Bodmer 47 comes from manuscript G, there has been a change here. Antonii Parthenii changes G’s externo to hesterno in his manuscript and since Bodmer 47’s scribe copied from Antonii Parthenii’s manuscript, Bodmer 47 has the same change to hesterno)
+
+378 (=375) ut spurium secl. Bergk, alii
+
+(Thompson combines lines 375 and 378 and switches the original line numbers. There is an unaccounted for line in 381 since he is saying that 375 = 378)
+
+379-81 om. O
+
+### 14th Century Manuscript 
+
+Accipiat coniurx (ab. cuīx - coniunx, spelling error) foelici (felici) foedere (ab. fedē - fedem) divam
+
+Dedatur cupido iam dudum (ab. dudū in Bodmer 47. Not ab. here) nupta marito (ab. māito - marito)
+
+Currite ducentes subtegmina (ab. sb’tegmina - subtegmina) currite fusi
+
+Non (ab. Nō - non) illam (ab. illā - illam) nutrix (ab. nut’x - nutrix) orienti luce revisens (ab. revisēs - revisens)
+
+Hesterno (ab. Est’no - Hesterno) coluum (ab. collū - collum) poterit circundare (ab. c’cumdāe - circumdare) filo
+
+Currite ducentes (ab. ducētes - ducentes) subtegmina (ab. sb’tegmina - subtegmina) currite fusi
+
+Anxia nec mater discordit moesta puellae (not included at all in this manuscript, scribe gaps lines 379 and 380 and goes straight to talia...)
+
+
+### Manuscript Catulli Carmina cum comm. Antonii Parthenii, Image 71 and 72 (1487)
+
+Accipiat coniurx (coniunx) foelici (felici) foedere divam.
+
+Dedatur cupido iam dudum nupta marito.
+
+Currite ducentes subtegmina currite fusi. (punctuation difference, :)
+
+Non illam nutrix orienti luce revisens,
+
+Hesterno coluum poterit circundare filo.
+
+Currite ducentes subtegmina currite fusi (punctuation difference, :)
+
+Anxia nec mater discordit (discordis) moesta puellae.
+
+Notes:
+
+This manuscript has small spaces between words compared to Bodmer 47. Bodmer 47 likely copied from this manuscript because they share a lot of the same spelling errors, and they both have punctuation. In addition, Bodmer 47 was created 1495, 8 years after this manuscript. Bodmer 47 has a few punctuation changes compared to Antonii Parthenii’s manuscript. Both Bodmer 47 and Catulli Carmina cum comm. Antonii Parthenii probably copied from G because they have similar spellings of proiiciet in line 370. In addition, G is the oldest of the three manuscripts. It seems like Atonii Parthenii wrote out all the abbreviations seen in G and then Bodmer 47 copied from his which is why it has the least abbreviations of all the manuscripts. 
+
+Additional evidence that Bodmer 47 and C.C.c.c.A.P. copied from G: G has an abbreviated form of submisso (sūmisso) in line 370, while the 14 c. manuscript just has sumisso with no symbol showing it is an abbreviation. Thompson notes this in the apparatus criticus: sumisso O. He switches the spelling in his own text to be ‘summiso’. This is because the ‘bm’ in submisso became assimilated into ‘mm’ and the word became summiso. The sumisso spelling in O that he noted in ap. crit. is a misspelled version of the more archaic submisso that is seen in Bodmer 47 and G. This also supports the idea that the 14th c. manuscript came from a different source than the rest of the manuscripts we looked at because it has the same spelling ‘sumisso’ as O.
+
 
