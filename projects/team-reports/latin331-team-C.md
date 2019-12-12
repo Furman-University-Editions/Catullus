@@ -54,7 +54,8 @@ The scribe mixed up lines 365 and 366, so rather than rewriting the page from th
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2741,0.3410,0.08594,0.02666&wID=250&CVT=JPEG)
 
-The only word the scribe capitalized in the entire selection is "Neptunia"...The scribe refers to "Polyxenia" in 368, but her name is not capitalized. It is possible this represents a reverence for the gods, because Neptune is a god and Polyxenia is a girl.
+The only word the scribe capitalized in the entire selection is "Neptunia"...The scribe refers to "Polyxenia" in 368, but her name is not capitalized. It is possible this represents a reverence for the gods, because Neptune is a god and Polyxenia is a girl. 
+Additional evidence of this is seen in the first few lines of Catullus 64 because Neptune is capitalized in line 2, but the names of peoples (argivae, line 4) and places (fines aeetheios, line 3) are not. However, Peleus and Thetis are capitalized, so it is hard to say exactly what the scribe was thinking. Perhaps the capitalization of Peleus and Thetis shows that he sees them as god-like, if not as actual gods.
 
 ## 368 Alta Polyxenia madefient caede sepulchra.
 
