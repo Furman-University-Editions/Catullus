@@ -259,7 +259,7 @@ The translation of 372: 'Therefore come to unite the hoped-for love to the mind'
 
 In line 363, Bodmer 47 has the word terrae, which means ‘of the Earth’. Thompson, however, has teres, which means ‘round’. The sentence still makes sense despite this switch.
 
-In 367, Bodmer 47 has the word tecta, which means ‘roof’. Thompson has vincla, which means ‘chains’. The sentence still makes sense despite this switch.
+In line 367, Bodmer 47 has the word tecta, which means ‘roof’. Thompson has vincla, which means ‘chains’. The sentence still makes sense despite this switch.
 
 ### Thompson's Apparatus Criticus
 
