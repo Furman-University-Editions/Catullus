@@ -227,16 +227,24 @@ Nor will the anxious sad mother of the girl quarrel.
 We put all the differences we observed in the manuscripts in parentheses next to the word that changed between our manuscript and the manuscript in question.
 
 ### Thompson's Edition
-373     Accipiat coniurx (coniunx) foelici (felici) foedere divam (punctuation change           from . to ,)
-374	    Dedatur cupido iam dudum nupta marito.
-375	    Currite ducentes subtegmina currite fusi.
-        (based on the apparatus criticus, (378 (=375))Thompson places 378 here in his edition, which means he combines the repeated lines 375 and 378...however, he later adds one of these repetitions to 381. At first we thought he simply moved 378 to 381, but his note in the apparatus criticus says otherwise. This is very interesting)
-376 	Non illam nutrix orienti luce revisens
-377	    Hesterno coluum (collum) poterit circundare (circumdare) filo (punctuation              change from . to ,)
-(378	Currite ducentes subtegmina currite fusi. is placed here in Bodmer 47)
-379	    Anxia nec mater discordit (discordis) moesta (maesta) puellae. (punctuation             change, Thompson gets rid of period)
-380	    subcubito caros mittet sperare nepotes (this is not part of our selection, it is         just interesting to note his line changes)
-381	    Currite ducentes subtegmina currite fusi. (see note after 375)	
+373 Accipiat coniurx (coniunx) foelici (felici) foedere divam (punctuation change from . to ,)
+
+374 Dedatur cupido iam dudum nupta marito.
+
+375 Currite ducentes subtegmina currite fusi. 
+(based on the apparatus criticus, (378 (=375))Thompson places 378 here in his edition, which means he combines the repeated lines 375 and 378...however, he later adds one of these repetitions to 381. At first we thought he simply moved 378 to 381, but his note in the apparatus criticus says otherwise. This is very interesting)
+
+376 Non illam nutrix orienti luce revisens
+
+377 Hesterno coluum (collum) poterit circundare (circumdare) filo (punctuation change from . to ,)
+
+(378 Currite ducentes subtegmina currite fusi. is placed here in Bodmer 47)
+
+379 Anxia nec mater discordit (discordis) moesta (maesta) puellae. (punctuation change, Thompson gets rid of period)
+
+380 subcubito caros mittet sperare nepotes (this is not part of our selection, it is just interesting to note his line number changes)
+
+381 Currite ducentes subtegmina currite fusi. (see note after 375)	
 
 Notes:
 
