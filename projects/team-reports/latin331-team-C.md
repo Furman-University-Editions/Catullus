@@ -8,7 +8,7 @@ Observations on Catullus 64.360-64.379 on Manuscript Bodmer 47, folio 43r.
 
 # Presentation
 - We did the Bodmer 47 Manuscript. It was written in 1495.
-- We compared Bodmer 47 to Thompson's edition and apparatus criticus (1997), G (1375), O (~1300s), and the Catulli Carmina cum comm. Antonii Parthenii Incunabulum (1487)
+- We compared Bodmer 47 to Thompson's edition and apparatus criticus (1997), Manuscript G (1375), Manuscript O (~1300s), and the Catulli Carmina cum comm. Antonii Parthenii Incunabulum (1487)
 - Our goal: We wanted to humanize the scribe behind the writing by describing his decisions, errors, and logic. We are also going to try to prove that Bodmer 47 and the Incunabulum copied from the same source.
 - Overall, our scribe used very few abbreviations, red ink to highlight repetition, and punctuation to separate his ideas.
 - Context: this is from the currite ducentes section. It is talking about Achilles' piles of bodies, Polyxenia's sacrifice, and the nurse not being able to measure Thetis' neck because she's pregnant
