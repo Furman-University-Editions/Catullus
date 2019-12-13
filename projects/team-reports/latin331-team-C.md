@@ -639,7 +639,7 @@ Notes:
 - Bodmer 47 has the least abbreviations of all the manuscripts.
 - 
 
-#### Evidence that Bodmer 47 and the Incunabulum copied from the same source: 
+## Evidence that Bodmer 47 and the Incunabulum copied from the same source: 
 We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the Incunabulum are so similar that we didn't think it was necessary to show pictures of both of them. If they differ, we will show both sources.
 
 Variants:
