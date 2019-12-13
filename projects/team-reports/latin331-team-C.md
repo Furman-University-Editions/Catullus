@@ -307,7 +307,7 @@ Other Differences We Noticed Not Shown Above:
 
 379-81 om. O
 
-### Bodleian (O) 14th Century Manuscript 
+### Bodleian Library, University of Oxford, MS Canon Class. Lat. 30, fol. 26v, 27r (O) Manuscript (14th Century)  
 
 Accipiat coniurx (ab. cuīx - coniunx, spelling error) foelici (felici) foedere (ab. fedē - fedem) divam
 
@@ -329,7 +329,7 @@ Notes:
 - O is the most different from the rest of the manuscripts we looked at. They seem to be in one manuscript family originating in G. O is the outlier.
 - Lines 379 and 380 in Bodmer 47 are not in O. The other manuscripts we looked at have these lines, which supports the fact that O is the most different.
 
-### Manuscript Paris 14137 (G) folio 26v (1375)
+### Paris 14137 (G) folio 26v Manuscript (1375)
 Accipiat coniurx (ab. coniūx - coniunx) foelici (felici) foedere (federe) divam.
 
 Dedatur cupido iam dudum (ab. dudu in Bodmer 47. Not ab. here) nupta marito.
@@ -374,7 +374,7 @@ Notes:
 - Bodmer 47 has the least abbreviations of all the manuscripts.
 - 
 
-##### Evidence that Bodmer 47 and the Incunabulum copied from the same source: 
+#### Evidence that Bodmer 47 and the Incunabulum copied from the same source: 
 Variants:
 - terrae vs. teres 
 - coluum vs. collum
