@@ -135,7 +135,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
 
 ## e. Alternate Spellings:
 - permista vs. permixta
-- 
+
     B47:
 
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2469,0.1185,0.08871,0.02299&wID=250&CVT=JPEG)
@@ -145,7 +145,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_58.tif&RGN=0.5254,0.6081,0.07188,0.01869&wID=250&CVT=JPEG)
 
 - sepulchra vs. sepulcra
-- 
+
     B47:
 
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.4232,0.3710,0.1060,0.02972&wID=250&CVT=JPEG)
@@ -155,7 +155,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_59.tif&RGN=0.4454,0.1236,0.06430,0.01791&wID=250&CVT=JPEG)
 
 - circundare vs. circumdare
-- 
+
     B47:
 
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3392,0.6602,0.1053,0.03143&wID=250&CVT=JPEG)
@@ -183,7 +183,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_58.tif&RGN=0.3884,0.6714,0.04210,0.01658&wID=250&CVT=JPEG)
 
 - moesta vs. maesta
-- 
+
     B47:
 
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3844,0.7205,0.07387,0.02838&wID=250&CVT=JPEG)
@@ -193,7 +193,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     does not have this line at all...we are comparing to Thompson's 'maesta'
     
 - submisso vs. summisso
-- 
+
     B47:
 
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2792,0.4351,0.08725,0.03376&wID=250&CVT=JPEG)
@@ -206,7 +206,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
 
 ## g. Variants:
 - terrae vs. teres 
-- 
+ 
     B47:
     
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.09736,0.2076,0.4827,0.03694&wID=900&CVT=JPEG)
@@ -222,7 +222,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     - translation: When the round mound was heaped up with a lofty pile
 
 - coluum vs. collum
-- 
+
     B47: 
     
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1115,0.6603,0.3700,0.03425&wID=900&CVT=JPEG)
@@ -672,7 +672,7 @@ Variants:
     - translation: Nor will the nurse be able to surround the neck with yesterday's thread
 
 - percussae vs. perculsae
-- 
+
     B47:
 
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1050,0.2467,0.4044,0.02361&wID=900&CVT=JPEG)
