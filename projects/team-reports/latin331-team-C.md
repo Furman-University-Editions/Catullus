@@ -437,88 +437,88 @@ O:
 
 ## Edition
 
-Alta tepefaciet permista flumina caede:
+360:    Alta tepefaciet permista flumina caede:
 
-Currite ducentes subtegmina currite fusi.
+361:    Currite ducentes subtegmina currite fusi.
 
-Denique testis erit morti quoque reddita praeda:
+362:    Denique testis erit morti quoque reddita praeda:
 
-Quom terrae excelso coaceruatum aggere bustum,
+363:    Quom terrae excelso coaceruatum aggere bustum,
 
-Excipiet niveos percussae virginis artus.
+364:    Excipiet niveos percussae virginis artus.
 
-Currite ducentes subtegmina currite fusi.
+365:    Currite ducentes subtegmina currite fusi.
 
-Nam simul ac fessis dederit sors copia Achivis,
+366:    Nam simul ac fessis dederit sors copia Achivis,
 
-Urbis Dardaniae Neptunia solvere tecta,
+367:    Urbis Dardaniae Neptunia solvere tecta,
 
-Alta Polyxenia madefient caede sepulchra.
+368:    Alta Polyxenia madefient caede sepulchra.
 
-Quae velut ancipiti succumbens victima ferro,
+369:    Quae velut ancipiti succumbens victima ferro,
 
-Proiiciet truncum submisso poplite corpus:
+370:    Proiiciet truncum submisso poplite corpus:
 
-Currite ducentes subtegmina currite fusi.
+371:    Currite ducentes subtegmina currite fusi.
 
-Quare agite optatos animis coniungere amores:
+372:    Quare agite optatos animis coniungere amores:
 
-Accipiat coniurx foelici foedere divam.
+373:    Accipiat coniurx foelici foedere divam.
 
-Dedatur cupido iam dudum nupta marito.
+374:    Dedatur cupido iam dudum nupta marito.
 
-Currite ducentes subtegmina currite fusi.
+375:    Currite ducentes subtegmina currite fusi.
 
-Non illam nutrix orienti luce revisens,
+376:    Non illam nutrix orienti luce revisens,
 
-Hesterno coluum poterit circundare filo.
+377:    Hesterno coluum poterit circundare filo.
 
-Currite ducentes subtegmina currite fusi.
+378:    Currite ducentes subtegmina currite fusi.
 
-Anxia nec mater discordit moesta puellae.
+379:    Anxia nec mater discordit moesta puellae.
 
 
 ## Translation
 
-He will warm the deep river with blood having been mixed in:
+360:    He will warm the deep river with blood having been mixed in:
 
-Run spindles, run leading the cross-threads.
+361:    Run spindles, run leading the cross-threads.
 
-And then the plunder also returned for death will be a witness:
+362:    And then the plunder also returned for death will be a witness:
 
-When the mound was heaped up with a lofty pile of the earth,
+363:    When the mound was heaped up with a lofty pile of the earth,
 
-It will draw out the snowy limbs of the virgin having been struck through.
+364:    It will draw out the snowy limbs of the virgin having been struck through.
 
-Run spindles, run leading the cross-threads. 
+365:    Run spindles, run leading the cross-threads. 
 
-For as soon as chance will have given the tired Greeks the opportunity,
+366:    For as soon as chance will have given the tired Greeks the opportunity,
 
-To loosen the Neptunian roofs of the Dardanian city,
+367:    To loosen the Neptunian roofs of the Dardanian city,
 
-The deep tombs will become wet with the blood of Polyxenia, 
+368:    The deep tombs will become wet with the blood of Polyxenia, 
 
-Who, just as a victim succumbing to the two-headed sword,
+369:    Who, just as a victim succumbing to the two-headed sword,
 
-She will throw forth her headless corpse onto the knee having been collapsed:
+370:    She will throw forth her headless corpse onto the knee having been collapsed:
 
-Run spindles, run leading the cross-threads.
+371:    Run spindles, run leading the cross-threads.
 
-Therefore come to unite the hoped-for love to the mind.
+372:    Therefore come to unite the hoped-for love to the mind.
 
-May the husband receive the goddess in happy agreement,
+373:    May the husband receive the goddess in happy agreement,
 
-May the bride be given to her eager husband now after so long.
+374:    May the bride be given to her eager husband now after so long.
 
-Run spindles, run leading the cross-threads.
+375:    Run spindles, run leading the cross-threads.
 
-The wet nurse returning to her with the rising light,
+376:    The wet nurse returning to her with the rising light,
 
-Will not be able to encircle with yesterday's thread of the distaffs,
+377:    Will not be able to encircle with yesterday's thread of the distaffs,
 
-Run spindles, run leading the cross-threads.
+378:    Run spindles, run leading the cross-threads.
 
-Nor will the anxious sad mother of the girl quarrel.
+379:    Nor will the anxious sad mother of the girl quarrel.
 
 ## Manuscript Comparisons
 
