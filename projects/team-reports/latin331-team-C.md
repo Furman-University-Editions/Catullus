@@ -89,6 +89,7 @@ Handwriting issue:
 - archaism: submisso vs. summiso
 - Submisso became summiso when the 'bm' in became assimilated into the 'mm'
 - Manuscripts in the G family seem to favor the archaic version, submisso (O uses summiso)
+-  G has an abbreviated form of submisso (sūmisso) in line 370, while O just has sumisso with no symbol showing it is an abbreviation. This is because the ‘bm’ in submisso became assimilated into ‘mm’ and the word became summisso. The sumisso spelling in O that he noted in ap. crit. is a misspelled version of the more archaic submisso that is seen in Bodmer 47 and G. This also supports the idea that O came from a different source than the rest of the manuscripts we looked at because it has the same spelling ‘sumisso’ as O.
 
 ## 371 Currite ducentes subtegmina currite fusi.
 
@@ -109,6 +110,7 @@ Handwriting issue:
 
 - Spelling error: "foelici" should be "felici"
 - This spelling error is interesting because the next word is "foedere," which means he mixed up the vowels in felici, foelici, and foedere.
+- We think that the scribe may have been mindlessly copying the words. He probably looked ahead at foedere and accidentally added an o to felici. The incunabulum does not make this same error, so it is definitely a scribal mistake.
 
 ## 374 Dedatur cupido iam dudum nupta marito.
 
@@ -258,6 +260,7 @@ Nor will the anxious sad mother of the girl quarrel.
 - We put all the differences we observed in the manuscripts in parentheses next to the word that changed between our manuscript and the manuscript in question.
 - Note: Bodmer 47 is the newest out of all the manuscripts we compared it to, making it the most "compromised" copy of Catullus 64 it this group.
 - abbreviations are noted ab.
+- All the manuscripts except O (and Thompson) seem to come from the same manuscript family.
 
 ### Thompson's Edition
 373 Accipiat coniurx (coniunx) foelici (felici) foedere divam (punctuation change from . to ,)
@@ -265,7 +268,8 @@ Nor will the anxious sad mother of the girl quarrel.
 374 Dedatur cupido iam dudum nupta marito.
 
 375 Currite ducentes subtegmina currite fusi. 
-(based on the apparatus criticus, (378 (=375))Thompson places 378 here in his edition, which means he combines the repeated lines 375 and 378...however, he later adds one of these repetitions to 381. At first we thought he simply moved 378 to 381, but his note in the apparatus criticus says otherwise. This is very interesting)
+- based on the apparatus criticus, (378 (=375)) Thompson places 378 here in his edition, which means he combines the repeated lines 375 and 378...however, he later adds one of these repetitions to 381. At first we thought he simply moved 378 to 381, but his note in the apparatus criticus says otherwise. This is very interesting.
+
 
 376 Non illam nutrix orienti luce revisens
 
@@ -280,25 +284,26 @@ Nor will the anxious sad mother of the girl quarrel.
 381 Currite ducentes subtegmina currite fusi. (see note after 375)	
 
 Notes:
- There are several punctuation changes in Thompson’s edition compared to our manuscript. Thompson also corrects a lot of Bodmer 47’s spelling errors. In addition, there is a grammatical change in line 379, he changes discordit in Bodmer 47 to discordis.
+ - There are several punctuation changes in Thompson’s edition compared to our manuscript
+- Thompson typically uses the newer forms of the words, Bodmer 47 used more archaic forms.
+ - There is a grammatical change in line 379, he changes discordit in Bodmer 47 to discordis.
+ - Thompson's edition takes more after the Bodleian manuscript than the others. In general, he follows O's word and spelling variants.
+ - While Thompson usually follows the Bodleian manuscript, it is missing several lines. He adds these lines back into his edition (379 and 380)
  
 Other Differences We Noticed Not Shown Above:
-
-The translation of 372: 'Therefore come to unite the hoped-for love to the mind' (Bodmer 47) is awkward compared to Thompson’s edition, which translates as 'therefore come unite the hoped-for love of the mind.' (There is a grammatical switch from animis in Bodmer 47 to animi in Thompson, the word goes from genitive to dative.)
-
-In line 363, Bodmer 47 has the word terrae, which means ‘of the Earth’. Thompson, however, has teres, which means ‘round’. The sentence still makes sense despite this switch.
-
-In line 367, Bodmer 47 has the word tecta, which means ‘roof’. Thompson has vincla, which means ‘chains’. The sentence still makes sense despite this switch.
+- The translation of 372: 'Therefore come to unite the hoped-for love to the mind' (Bodmer 47) is awkward compared to Thompson’s edition, which translates as 'therefore come unite the hoped-for love of the mind.' (There is a grammatical switch from animis in Bodmer 47 to animi in Thompson, the word goes from genitive to dative.)
+- In line 363, Bodmer 47 has the word terrae, which means ‘of the Earth’. Thompson, however, has teres, which means ‘round’. The sentence still makes sense despite this switch.
+- In line 367, Bodmer 47 has the word tecta, which means ‘roof’. Thompson has vincla, which means ‘chains’. The sentence still makes sense despite this switch.
 
 ### Thompson's Apparatus Criticus
 
 377 hesterno γ: esterno O, externo GR
-
-(Since Bodmer 47 comes from manuscript G, there has been a change here. Antonii Parthenii changes G’s externo to hesterno in his manuscript and since Bodmer 47’s scribe copied from Antonii Parthenii’s manuscript, Bodmer 47 has the same change to hesterno)
+- Since Bodmer 47 comes from manuscript G, there has been a change here.
+- The incunabulum changes G’s externo to hesterno in his manuscript and since Bodmer 47 comes from the same manuscript family, Bodmer 47 has the same change to hesterno)
 
 378 (=375) ut spurium secl. Bergk, alii
-
-(Thompson combines lines 375 and 378 and switches the original line numbers. There is an unaccounted for line in 381 since he is saying that 375 = 378)
+- Thompson combines lines 375 and 378 and switches the original line numbers
+- There is an unaccounted for line in 381 since he is saying that 375 = 378)
 
 379-81 om. O
 
@@ -319,7 +324,10 @@ Currite ducentes (ab. ducētes - ducentes) subtegmina (ab. sb’tegmina - subteg
 Anxia nec mater discordit moesta puellae (not included at all in this manuscript, scribe gaps lines 379 and 380 and goes straight to talia...)
 
 Notes:
-There is no punctuation, and there are a lot of abbreviations. This manuscript seems to come from a different source than G because it is the most different from the rest of the manuscripts (and the other two probably came from G). 379 is not in O either. This supports the idea that O is from a different manuscript family than the other manuscripts we looked at because they have 379
+- This is the oldest manuscript we looked at.
+- There is no punctuation, and there are a lot of abbreviations. This is typical of the older manuscripts - the more contemporary ones usually have punctuation and unabbreviated words.
+- O is the most different from the rest of the manuscripts we looked at. They seem to be in one manuscript family originating in G. O is the outlier.
+- Lines 379 and 380 in Bodmer 47 are not in O. The other manuscripts we looked at have these lines, which supports the fact that O is the most different.
 
 ### Manuscript Paris 14137 (G) folio 26v (1375)
 Accipiat coniurx (ab. coniūx - coniunx) foelici (felici) foedere (federe) divam.
@@ -337,7 +345,9 @@ Currite ducentes subtegmina (sub tegmina) currite (ab. curīte - currite) fusi.
 Anxia nec mater discordit (discordis) moesta (mesta) puellae (puelle). (more spelling errors in this line, perhaps his hand got tired?)
 
 Notes:
-This manuscript has abbreviations and punctuation. It has less abbreviations than the 14th c. manuscript because the 14th c. manuscript likely came from a different source than G. 379 is also in G.
+- after O, second oldest manuscript
+- This manuscript is kind of a bridge between the old and new traditions. It has abbreviations, which is more characteristic of older manuscripts, and punctuation, which is more characteristic of newer manuscripts.
+- It has less abbreviations than the Bodleian manuscript. 
 
 ### Incunabulum Catulli Carmina cum comm. Antonii Parthenii, Image 71 and 72 (1487)
 
@@ -356,13 +366,33 @@ Currite ducentes subtegmina currite fusi (punctuation difference, :)
 Anxia nec mater discordit (discordis) moesta puellae.
 
 Notes:
-Incunabulum - printed edition, NOT a manuscript
-This incunabulum has small spaces between words compared to Bodmer 47. Bodmer 47 likely copied from this incunabulum because they share a lot of the same spelling errors, and they both have punctuation. In addition, Bodmer 47 was created 1495, 8 years after this manuscript. Bodmer 47 has a few punctuation changes compared to Antonii Parthenii’s manuscript. Both Bodmer 47 and Catulli Carmina cum comm. Antonii Parthenii probably copied from G because they have similar spellings of proiiciet in line 370. In addition, G is the oldest of the three manuscripts. It seems like Atonii Parthenii wrote out all the abbreviations seen in G and then Bodmer 47 copied from his which is why it has the least abbreviations of all the manuscripts. 
-
-Additional evidence that Bodmer 47 and C.C.c.c.A.P. copied from G: G has an abbreviated form of submisso (sūmisso) in line 370, while the 14 c. manuscript just has sumisso with no symbol showing it is an abbreviation. Thompson notes this in the apparatus criticus: sumisso O. He switches the spelling in his own text to be ‘summiso’. This is because the ‘bm’ in submisso became assimilated into ‘mm’ and the word became summiso. The sumisso spelling in O that he noted in ap. crit. is a misspelled version of the more archaic submisso that is seen in Bodmer 47 and G. This also supports the idea that the 14th c. manuscript came from a different source than the rest of the manuscripts we looked at because it has the same spelling ‘sumisso’ as O.
-
-coluum
-contemporaries - part of the same network, they either copied from the same source or bodmer 47 copied from incunabulum
-quom vs quum spelling wasn't standardized
-
+- This manuscript is an incunabulum. An incunabulum is a printed edition, NOT a manuscript (not written by hand)
+- Bodmer 47 likely copied from this incunabulum because they share a lot of the same spellings, and they both have punctuation. 
+- Bodmer 47 was created 1495, 8 years after this manuscript. 
+- Both Bodmer 47 and the Incunabulum probably copied from G because they have similar spellings of proiiciet in line 370. 
+- G is the oldest of the three manuscripts. It seems like Incunabulum printer expanded all the abbreviations seen in G
+- Bodmer 47 has the least abbreviations of all the manuscripts.
 - 
+
+##### Evidence that Bodmer 47 and the Incunabulum copied from the same source: 
+Variants:
+- terrae vs. teres 
+- coluum vs. collum
+- perculsae vs. percussae
+- Bodmer 47 and the Incunabulum are in agreement; they both use the words on the left
+
+Alternate Spellings:
+- permista vs. permixta
+- sepulchra vs. sepulcra
+- circundare vs. circumdare
+- Bodmer 47 and the Incunabulum are in agreement; they both use the words on the left
+- Latin spelling was not really standardized by this point, which is why alternate spellings exist. The fact that both Bodmer 47 and the Incunabulum have the same alternate spellings means it is more than likely they copied from the same source.
+
+Archaisms:
+- quom - quum - cum: this is the only difference between Bodmer 47 and the Incunabulum. Bodmer 47 uses "quom" which is the most archaic form of cum. However, the incunabulum, which is older, uses "quum." It is odd that the newer manuscript uses the older form of cum...this likely happened because the spelling was not standardized
+- moesta vs. maesta
+- submisso vs. summisso
+- Apart from quom/quum, Bodmer 47 and the Incunabulum are in agreement; they both use the words on the left.
+
+Because of the similarities between Bodmer 47 and the Incunabulum, we can conclude that they were contemporaries. Thus, they are part of the same manuscript family/network. They either copied from the same source or Bodmer 47 copied from Incunabulum (simply because Bodmer 47 is 8 years younger than the Incunabulum).
+
