@@ -594,7 +594,7 @@ Notes:
 - O is the most different from the rest of the manuscripts we looked at. They seem to be in one manuscript family originating in G. O is the outlier.
 - Lines 379 and 380 in Bodmer 47 are not in O. The other manuscripts we looked at have these lines, which supports the fact that O is the most different.
 
-### Paris 14137 (G) folio 26v Manuscript (1375)
+### Paris 14137 (G) folio 25r, 26v Manuscript (1375)
 Accipiat coniurx (ab. coniūx - coniunx) foelici (felici) foedere (federe) divam.
 
 Dedatur cupido iam dudum (ab. dudu in Bodmer 47. Not ab. here) nupta marito.
@@ -614,7 +614,7 @@ Notes:
 - This manuscript is kind of a bridge between the old and new traditions. It has abbreviations, which is more characteristic of older manuscripts, and punctuation, which is more characteristic of newer manuscripts.
 - It has less abbreviations than the Bodleian manuscript. 
 
-### Incunabulum Catulli Carmina cum comm. Antonii Parthenii, Image 71 and 72 (1487)
+### Incunabulum Catulli Carmina cum comm. Antonii Parthenii, Image 71, 72 (1487)
 
 Accipiat coniurx (coniunx) foelici (felici) foedere divam.
 
