@@ -89,6 +89,7 @@ Handwriting issue:
 - the symbol above the u means to add an m
 
 ## c. Misspellings
+#### 373 Accipiat coniurx foelici foedere divam.
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2810,0.5322,0.1376,0.03107&wID=300&CVT=JPEG)
 
 - Spelling error: "foelici" should be "felici"
