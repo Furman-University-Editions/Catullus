@@ -4,23 +4,27 @@ Observations on Catullus 64.360-64.379 on Manuscript Bodmer 47, folio 43r.
 
 ( urn:cts:latinLit:phi0472.phi001:64.1-64.7 )
 
-[All observations in context](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1068,0.1492,0.3792,0.02593&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2469,0.1185,0.08871,0.02299&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2684,0.2430,0.1034,0.02862&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2378,0.2107,0.07518,0.02862&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.4232,0.3710,0.1060,0.02972&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1044,0.4391,0.09475,0.03168&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2022,0.5322,0.08594,0.03107&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2810,0.5322,0.1376,0.03107&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2004,0.6629,0.06751,0.02483&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3392,0.6602,0.1053,0.03143&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3844,0.7205,0.07387,0.02838&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3567,0.6290,0.04599,0.02336&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.06849,0.5867,0.07094,0.04207&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.06882,0.2730,0.4715,0.06544&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2741,0.3410,0.08594,0.02666&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1032,0.2143,0.07110,0.03339&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2164,0.6305,0.07714,0.03119&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1101,0.7263,0.08562,0.03706&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3118,0.5626,0.05757,0.02752&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1778,0.2147,0.06360,0.02654&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3787,0.4930,0.1029,0.04195&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.4459,0.1489,0.1566,0.02605&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1042,0.4724,0.4555,0.08721)
+[All observations in context](http://www.homermultitext.org/ict2/?urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1068,0.1492,0.3792,0.02593&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2469,0.1185,0.08871,0.02299&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2684,0.2430,0.1034,0.02862&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2378,0.2107,0.07518,0.02862&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.4232,0.3710,0.1060,0.02972&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1044,0.4391,0.09475,0.03168&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2022,0.5322,0.08594,0.03107&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2810,0.5322,0.1376,0.03107&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2004,0.6629,0.06751,0.02483&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3392,0.6602,0.1053,0.03143&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3844,0.7205,0.07387,0.02838&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3567,0.6290,0.04599,0.02336&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.06849,0.5867,0.07094,0.04207&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.06882,0.2730,0.4715,0.06544&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2741,0.3410,0.08594,0.02666&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1032,0.2143,0.07110,0.03339&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2164,0.6305,0.07714,0.03119&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1101,0.7263,0.08562,0.03706&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3118,0.5626,0.05757,0.02752&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1778,0.2147,0.06360,0.02654&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.3787,0.4930,0.1029,0.04195&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.4459,0.1489,0.1566,0.02605&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.1042,0.4724,0.4555,0.08721&urn=urn:cite2:fufolio:codbod47.2019a:bod47_89_43r_0@0.2792,0.4351,0.08725,0.03376)
+
+## Presentation
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.05757,0.09259,0.5267,0.6833&wID=700&CVT=JPEG)
 
 ## 360 Alta tepefaciet permista flumina caede:
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2469,0.1185,0.08871,0.02299&wID=250&CVT=JPEG)
 
-Spelling error: "permista" should be "permixta"
+- Alternate spelling: "permista" vs. "permixta"
 
 ## 361 Currite ducentes subtegmina currite fusi.
 
 ![image1](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1068,0.1492,0.3792,0.02593&wID=500&CVT=JPEG)
 
-This line is red every time it occurs in this selection of the manuscript.
+- This line is red every time it occurs in this selection of the manuscript.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.06849,0.5867,0.07094,0.04207&wID=250&CVT=JPEG)
 
-This symbol repeats with every recurrence of "currite ducentes subtegmina currite fusi." It is likely that another scribe added these in at a later time because they are a different ink color than the rest of the manuscript colors (brown and red)
+- This symbol repeats with every recurrence of "currite ducentes subtegmina currite fusi."
+- It is likely that another scribe added these in at a later time because they are a different ink color than the rest of the manuscript colors (brown and red)
 
 ## 362 Denique testis erit morti quoque reddita praeda:
 
@@ -28,25 +32,32 @@ This symbol repeats with every recurrence of "currite ducentes subtegmina currit
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1032,0.2143,0.07110,0.03339&wID=250&CVT=JPEG)
 
-"Quom" is the archaic spelling of "cum"
+- archaism: "Quom" is the archaic spelling of "cum"
+- The oldest form of cum is quom. Quum came after quom, and then the 'qu' turned into a 'c' to become cum. This is called assimilation.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1778,0.2147,0.06360,0.02654&wID=250&CVT=JPEG)
 
-genitive, "terrae" means "of the Earth." Compare to Thompson's edition "teres" which means "round." It is interesting that both interpretations make sense within the context of the sentence. 
+- genitive
+- "terrae" means "of the Earth"
+- Compare to Thompson's edition "teres" which means "round."
+- It is interesting that both interpretations make sense within the context of the sentence. 
 
 ## 364 Excipiet niveos percussae virginis artus.
 
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2378,0.2107,0.07518,0.02862&wID=250&CVT=JPEG)
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2684,0.2430,0.1034,0.02862&wID=250&CVT=JPEG)
 
-![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2378,0.2107,0.07518,0.02862&wID=250&CVT=JPEG)
-
-Handwriting issue: Compare percussae to excelso in the previous line. While it is possible that the scribe meant perculsae rather than percussae, the juxtaposition of the 'ls' in excelso does not resemble the 'ss' in percussae; for this reason, we are recognizing this word as percussae.
+Handwriting issue: 
+- Compare percussae to excelso in the previous line.
+- While it is possible that the scribe meant perculsae rather than percussae, the juxtaposition of the 'ls' in excelso does not resemble the 'ss' in percussae; for this reason, we are recognizing this word as percussae.
+- Percussae is an entirely different word than perculsae (which is seen in the O manuscript family). Percussae comes from "percutio," which means 'to strike through' and perculsae comes from "percello" which means 'to beat down.'
 
 ## 366 Currite ducentes subtegmina currite fusi.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.06882,0.2730,0.4715,0.06544&wID=500&CVT=JPEG)
 
-The scribe mixed up lines 365 and 366, so rather than rewriting the page from the beginning, they added the letters "a" and "b" in red to show they mixed up the order. The scribe likely realized this upon completing line 366, because the letters are in the same red ink.
+- The scribe mixed up lines 365 and 366, so rather than rewriting the page from the beginning, they added the letters "a" and "b" in red to show they mixed up the order.
+- The scribe likely realized this upon completing line 366, because the letters are in the same red ink.
 
 ## 365 Nam simul ac fessis dederit sors copia Achivis,
 
@@ -54,15 +65,15 @@ The scribe mixed up lines 365 and 366, so rather than rewriting the page from th
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2741,0.3410,0.08594,0.02666&wID=250&CVT=JPEG)
 
-The only word the scribe capitalized in the entire selection is "Neptunia"...The scribe refers to "Polyxenia" in 368, but her name is not capitalized. It is possible this represents a reverence for the gods, because Neptune is a god and Polyxenia is a girl. 
-
-Additional evidence of this is seen in the first few lines of Catullus 64 because Neptune is capitalized in line 2, but the names of peoples (argivae, line 4) and places (fines aeetheios, line 3) are not. However, Peleus and Thetis are capitalized, so it is hard to say exactly what the scribe was thinking. Perhaps the capitalization of Peleus and Thetis shows that he sees them as god-like, if not as actual gods.
+- The only word the scribe capitalized in the entire selection is "Neptunia"...The scribe refers to "Polyxenia" in 368, but her name is not capitalized. It is possible this represents a reverence for the gods, because Neptune is a god and Polyxenia is a girl. 
+- Additional evidence of this is seen in the first few lines of Catullus 64 because Neptune is capitalized in line 2, but the names of peoples (argivae, line 4) and places (fines aeetheios, line 3) are not. However, Peleus and Thetis are capitalized, so it is hard to say exactly what the scribe was thinking. Perhaps the capitalization of Peleus and Thetis shows that he sees them as god-like, if not as actual gods.
 
 ## 368 Alta Polyxenia madefient caede sepulchra.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.4232,0.3710,0.1060,0.02972&wID=250&CVT=JPEG)
 
-Spelling error: "sepulchra" should be "sepulcra"
+
+- Alternate spelling: "sepulchra" vs. "sepulcra"
 
 ## 369 Quae velut ancipiti succumbens victima ferro,
 
@@ -70,7 +81,14 @@ Spelling error: "sepulchra" should be "sepulcra"
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1044,0.4391,0.09475,0.03168&wID=250&CVT=JPEG)
 
-Spelling error, likely copied from manuscript G: manuscript G wrote "proiciet" as "proiiciet" and the Bodmer 47 scribe made the same error.
+- Spelling error, likely copied from manuscript G: manuscript G wrote "proiciet" as "proiiciet"
+- Bodmer 47 scribe made the same error.
+
+![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2792,0.4351,0.08725,0.03376&wID=250&CVT=JPEG)
+
+- archaism: submisso vs. summiso
+- Submisso became summiso when the 'bm' in became assimilated into the 'mm'
+- Manuscripts in the G family seem to favor the archaic version, submisso (O uses summiso)
 
 ## 371 Currite ducentes subtegmina currite fusi.
 
@@ -78,23 +96,26 @@ Spelling error, likely copied from manuscript G: manuscript G wrote "proiciet" a
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3787,0.4930,0.1029,0.04195&wID=250&CVT=JPEG)
 
-abbreviated form of infinitive "coniungere" - the symbol above the u means to add an n
+- abbreviated form of infinitive "coniungere"
+- the symbol above the u means to add an n
 
 ## 373 Accipiat coniurx foelici foedere divam.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2022,0.5322,0.08594,0.03107&wID=250&CVT=JPEG)
 
-Spelling error, "coniurx" should be "coniunx"
+- Spelling error, "coniurx" should be "coniunx"
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2810,0.5322,0.1376,0.03107&wID=250&CVT=JPEG)
 
-Spelling error: "foelici" should be "felici." This spelling error is interesting because the next word is "foedere," which means he mixed up the vowels in felici, foelici, and foedere.
+- Spelling error: "foelici" should be "felici"
+- This spelling error is interesting because the next word is "foedere," which means he mixed up the vowels in felici, foelici, and foedere.
 
 ## 374 Dedatur cupido iam dudum nupta marito.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3118,0.5626,0.05757,0.02752&wID=250&CVT=JPEG)
 
-abbreviated form of "dudum" - the symbol above the u means to add an m
+- abbreviated form of "dudum"
+- the symbol above the u means to add an m
 
 ## 375 Currite ducentes subtegmina currite fusi.
 
@@ -104,11 +125,13 @@ abbreviated form of "dudum" - the symbol above the u means to add an m
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2004,0.6629,0.06751,0.02483&wID=250&CVT=JPEG)
 
-Spelling error: "coluum" should be "collum"
+- Thompson has this word as "collum" which means "neck"
+- Bodmer 47, however, has coluum, which means "distaff" in the gentive plural case
+- This is still relevant to the passage because it is talking about thread and spindles. It is unclear whether the scribe got lazy with the second 'l' or or if he meant to put an entirely different word. 
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3392,0.6602,0.1053,0.03143&wID=250&CVT=JPEG)
 
-Spelling error: "circundare" should be "circumdare"
+- Alternate spelling: "circundare" vs. "circumdare"
 
 ## 378 Currite ducentes subtegmina currite fusi.
 
@@ -116,7 +139,7 @@ Spelling error: "circundare" should be "circumdare"
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3844,0.7205,0.07387,0.02838&wID=250&CVT=JPEG)
 
-Spelling error: "moesta" should be "maesta"
+- archaism: "moesta" is the more archaic form of "maesta"
 
 ## General Notes
 
@@ -124,19 +147,25 @@ Spelling error: "moesta" should be "maesta"
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2164,0.6305,0.07714,0.03119&wID=250&CVT=JPEG)
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1101,0.7263,0.08562,0.03706&wID=250&CVT=JPEG)
 
-Compare the handwriting in lines 373, 376, and 379. Notice the 'nx' in coniunx, the 'ix' in nutrix, and the 'nx' in anxia. The way the 'nx' looks in anxia makes it likely that the coniunx in 373 is misspelled, with the scribe actually writing coniurx in the manuscript. Coniunx and nutrix look more similar than coniunx and anxia.
+- Compare the handwriting in lines 373, 376, and 379.
+- Notice the 'nx' in coniunx, the 'ix' in nutrix, and the 'nx' in anxia.
+- The way the 'nx' looks in anxia makes it likely that the coniunx in 373 is misspelled, with the scribe actually writing coniurx in the manuscript. Coniunx and nutrix look more similar than coniunx and anxia.
+- We think the scribe might have gotten lazy by the time he got to line 373's coniunx because he blended the n and the x together, making it look like it is an rx.
+- He might have taken a break before writing 379 because the nx is very clear in anxia compared to coniunx.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.3567,0.6290,0.04599,0.02336&wID=250&CVT=JPEG)
 
-Handwriting note: When e's occur at the end of the word, they have flourishes
+- Handwriting note: When e's occur at the end of the word, they have flourishes
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.4459,0.1489,0.1566,0.02605&wID=600&CVT=JPEG)
 
-The scribe used lines to write in stright lines: there are horizontal lines drawn under each line of poetry and vertical lines drawn at the beginning and end of each line.
+- The scribe used lines to write in stright lines
+- there are horizontal lines drawn under each line of poetry and vertical lines drawn at the beginning and end of each line.
 
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1042,0.4724,0.4555,0.08721&wID=500&CVT=JPEG)
 
-The scribe uses a lot of punctuation. In particular, he often uses periods, commas, and colons after each line.
+- The scribe uses a lot of punctuation.
+- In particular, he often uses periods, commas, and colons after each line.
 
 
 ## Edition
@@ -218,7 +247,7 @@ Run spindles, run leading the cross-threads.
 
 The wet nurse returning to her with the rising light,
 
-Will not be able to encircle the neck with the thread of yesterday,
+Will not be able to encircle with yesterday's thread of the distaff,
 
 Run spindles, run leading the cross-threads.
 
@@ -226,11 +255,9 @@ Nor will the anxious sad mother of the girl quarrel.
 
 ## Manuscript Comparisons
 
-We put all the differences we observed in the manuscripts in parentheses next to the word that changed between our manuscript and the manuscript in question.
-
-Note: Bodmer 47 is the newest out of all the manuscripts we compared it to, making it the most "compromised" copy of Catullus 64 it this group.
-
-abbreviations are noted ab.
+- We put all the differences we observed in the manuscripts in parentheses next to the word that changed between our manuscript and the manuscript in question.
+- Note: Bodmer 47 is the newest out of all the manuscripts we compared it to, making it the most "compromised" copy of Catullus 64 it this group.
+- abbreviations are noted ab.
 
 ### Thompson's Edition
 373 Accipiat coniurx (coniunx) foelici (felici) foedere divam (punctuation change from . to ,)
@@ -275,7 +302,7 @@ In line 367, Bodmer 47 has the word tecta, which means ‘roof’. Thompson has 
 
 379-81 om. O
 
-### 14th Century Manuscript 
+### Bodleian (O) 14th Century Manuscript 
 
 Accipiat coniurx (ab. cuīx - coniunx, spelling error) foelici (felici) foedere (ab. fedē - fedem) divam
 
@@ -292,7 +319,7 @@ Currite ducentes (ab. ducētes - ducentes) subtegmina (ab. sb’tegmina - subteg
 Anxia nec mater discordit moesta puellae (not included at all in this manuscript, scribe gaps lines 379 and 380 and goes straight to talia...)
 
 Notes:
-There is no punctuation, and there are a lot of abbreviations. This manuscript seems to come from a different source than G because it is the most different from the rest of the manuscripts (and the other two probably came from G).
+There is no punctuation, and there are a lot of abbreviations. This manuscript seems to come from a different source than G because it is the most different from the rest of the manuscripts (and the other two probably came from G). 379 is not in O either. This supports the idea that O is from a different manuscript family than the other manuscripts we looked at because they have 379
 
 ### Manuscript Paris 14137 (G) folio 26v (1375)
 Accipiat coniurx (ab. coniūx - coniunx) foelici (felici) foedere (federe) divam.
@@ -310,9 +337,9 @@ Currite ducentes subtegmina (sub tegmina) currite (ab. curīte - currite) fusi.
 Anxia nec mater discordit (discordis) moesta (mesta) puellae (puelle). (more spelling errors in this line, perhaps his hand got tired?)
 
 Notes:
-This manuscript has abbreviations and punctuation. It has less abbreviations than the 14th c. manuscript because the 14th c. manuscript likely came from a different source than G.
+This manuscript has abbreviations and punctuation. It has less abbreviations than the 14th c. manuscript because the 14th c. manuscript likely came from a different source than G. 379 is also in G.
 
-### Manuscript Catulli Carmina cum comm. Antonii Parthenii, Image 71 and 72 (1487)
+### Incunabulum Catulli Carmina cum comm. Antonii Parthenii, Image 71 and 72 (1487)
 
 Accipiat coniurx (coniunx) foelici (felici) foedere divam.
 
@@ -329,6 +356,13 @@ Currite ducentes subtegmina currite fusi (punctuation difference, :)
 Anxia nec mater discordit (discordis) moesta puellae.
 
 Notes:
-This manuscript has small spaces between words compared to Bodmer 47. Bodmer 47 likely copied from this manuscript because they share a lot of the same spelling errors, and they both have punctuation. In addition, Bodmer 47 was created 1495, 8 years after this manuscript. Bodmer 47 has a few punctuation changes compared to Antonii Parthenii’s manuscript. Both Bodmer 47 and Catulli Carmina cum comm. Antonii Parthenii probably copied from G because they have similar spellings of proiiciet in line 370. In addition, G is the oldest of the three manuscripts. It seems like Atonii Parthenii wrote out all the abbreviations seen in G and then Bodmer 47 copied from his which is why it has the least abbreviations of all the manuscripts. 
+Incunabulum - printed edition, NOT a manuscript
+This incunabulum has small spaces between words compared to Bodmer 47. Bodmer 47 likely copied from this incunabulum because they share a lot of the same spelling errors, and they both have punctuation. In addition, Bodmer 47 was created 1495, 8 years after this manuscript. Bodmer 47 has a few punctuation changes compared to Antonii Parthenii’s manuscript. Both Bodmer 47 and Catulli Carmina cum comm. Antonii Parthenii probably copied from G because they have similar spellings of proiiciet in line 370. In addition, G is the oldest of the three manuscripts. It seems like Atonii Parthenii wrote out all the abbreviations seen in G and then Bodmer 47 copied from his which is why it has the least abbreviations of all the manuscripts. 
 
 Additional evidence that Bodmer 47 and C.C.c.c.A.P. copied from G: G has an abbreviated form of submisso (sūmisso) in line 370, while the 14 c. manuscript just has sumisso with no symbol showing it is an abbreviation. Thompson notes this in the apparatus criticus: sumisso O. He switches the spelling in his own text to be ‘summiso’. This is because the ‘bm’ in submisso became assimilated into ‘mm’ and the word became summiso. The sumisso spelling in O that he noted in ap. crit. is a misspelled version of the more archaic submisso that is seen in Bodmer 47 and G. This also supports the idea that the 14th c. manuscript came from a different source than the rest of the manuscripts we looked at because it has the same spelling ‘sumisso’ as O.
+
+coluum
+contemporaries - part of the same network, they either copied from the same source or bodmer 47 copied from incunabulum
+quom vs quum spelling wasn't standardized
+
+- 
