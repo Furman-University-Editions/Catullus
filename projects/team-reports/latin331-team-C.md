@@ -134,7 +134,7 @@ Handwriting issue:
 We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the Incunabulum are so similar that we didn't think it was necessary to show pictures of both of them. If they differ, we will show both sources.
 
 ## e. Alternate Spellings:
-- permista vs. permixta
+- permista vs. permixta (Line 360)
 
     B47:
 
@@ -144,7 +144,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_58.tif&RGN=0.5254,0.6081,0.07188,0.01869&wID=250&CVT=JPEG)
 
-- sepulchra vs. sepulcra
+- sepulchra vs. sepulcra (Line 368)
 
     B47:
 
@@ -154,7 +154,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_59.tif&RGN=0.4454,0.1236,0.06430,0.01791&wID=250&CVT=JPEG)
 
-- circundare vs. circumdare
+- circundare vs. circumdare (Line 377)
 
     B47:
 
@@ -168,7 +168,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
 - Latin spelling was not really standardized by this point, which is why alternate spellings exist. The fact that both Bodmer 47 and the Incunabulum have the same alternate spellings means it is more than likely they copied from the same source.
 
 ## f. Archaisms:
-- quom - quum - cum: this is the only difference between Bodmer 47 and the Incunabulum. Bodmer 47 uses "quom" which is the most archaic form of cum. However, the incunabulum, which is older, uses "quum." It is odd that the newer manuscript uses the older form of cum...this likely happened because the spelling was not standardized
+- quom - quum - cum (Line 363): this is the only difference between Bodmer 47 and the Incunabulum. Bodmer 47 uses "quom" which is the most archaic form of cum. However, the incunabulum, which is older, uses "quum." It is odd that the newer manuscript uses the older form of cum...this likely happened because the spelling was not standardized
 
     B47:
     
@@ -182,7 +182,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_58.tif&RGN=0.3884,0.6714,0.04210,0.01658&wID=250&CVT=JPEG)
 
-- moesta vs. maesta
+- moesta vs. maesta (Line 379)
 
     B47:
 
@@ -192,7 +192,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     
     does not have this line at all...we are comparing to Thompson's 'maesta'
     
-- submisso vs. summisso
+- submisso vs. summisso (Line 370)
 
     B47:
 
@@ -205,7 +205,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
 - Apart from quom/quum, Bodmer 47 and the Incunabulum are in agreement; they both use the words on the left.
 
 ## g. Variants:
-- terrae vs. teres 
+- terrae vs. teres (Line 363)
  
     B47:
     
@@ -221,7 +221,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     - teres: nominative plural, "round"
     - translation: When the round mound was heaped up with a lofty pile
 
-- coluum vs. collum
+- coluum vs. collum (Line 377)
 
     B47: 
     
@@ -237,7 +237,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
     - collum: accusative singular, direct object, "neck"
     - translation: Nor will the nurse be able to surround the neck with yesterday's thread
 
-- percussae vs. perculsae
+- percussae vs. perculsae (Line 364)
 
     B47:
     
@@ -335,15 +335,19 @@ Handwriting issue:
 - Bodmer 47 scribe made the same error.
 
 Bodmer 47:
+
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.2792,0.4351,0.08725,0.03376&wID=250&CVT=JPEG)
 
 G:
+
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/paris14137/2019a/paris14137_55.tif&RGN=0.5579,0.2150,0.09087,0.02134&wID=350&CVT=JPEG)
 
 Incunabulum:
+
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/croat24/2019a/000617224_72.tif&RGN=0.6455,0.1605,0.07950,0.02800&wID=250&CVT=JPEG)
 
 O:
+
 ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_59.tif&RGN=0.3223,0.1712,0.06903,0.02125&wID=250&CVT=JPEG)
 
 
@@ -640,7 +644,7 @@ We are comparing Bodmer 47 and the Bodleian Manuscript (O). Bodmer 47 and the In
 
 Variants:
 
-- terrae vs. teres 
+- terrae vs. teres (Line 363)
 
     B47:
     
@@ -656,7 +660,7 @@ Variants:
     - teres: nominative plural, "round"
     - translation: When the round mound was heaped up with a lofty pile
 
-- coluum vs. collum
+- coluum vs. collum (Line 377)
 
     B47:
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/codbod47/2019a/bod47_89_43r_0.tif&RGN=0.1115,0.6603,0.3700,0.03425&wID=900&CVT=JPEG)
@@ -671,7 +675,7 @@ Variants:
     - collum: accusative singular, direct object, "neck"
     - translation: Nor will the nurse be able to surround the neck with yesterday's thread
 
-- percussae vs. perculsae
+- percussae vs. perculsae (Line 364)
 
     B47:
 
@@ -690,7 +694,7 @@ Variants:
 - Bodmer 47 and the Incunabulum are in agreement; they both use the words on the left
 
 Alternate Spellings:
-- permista vs. permixta
+- permista vs. permixta (Line 360)
 
     B47:
     
@@ -700,7 +704,7 @@ Alternate Spellings:
     
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_58.tif&RGN=0.5254,0.6081,0.07188,0.01869&wID=250&CVT=JPEG)
 
-- sepulchra vs. sepulcra
+- sepulchra vs. sepulcra (Line 368)
 
     B47:
     
@@ -710,7 +714,7 @@ Alternate Spellings:
     
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_59.tif&RGN=0.4454,0.1236,0.06430,0.01791&wID=250&CVT=JPEG)
 
-- circundare vs. circumdare
+- circundare vs. circumdare (Line 377)
 
     B47:
     
@@ -724,7 +728,7 @@ Alternate Spellings:
 - Latin spelling was not really standardized by this point, which is why alternate spellings exist. The fact that both Bodmer 47 and the Incunabulum have the same alternate spellings means it is more than likely they copied from the same source.
 
 Archaisms:
-- quom - quum - cum: this is the only difference between Bodmer 47 and the Incunabulum. Bodmer 47 uses "quom" which is the most archaic form of cum. However, the incunabulum, which is older, uses "quum." It is odd that the newer manuscript uses the older form of cum...this likely happened because the spelling was not standardized
+- quom - quum - cum (Line 363): this is the only difference between Bodmer 47 and the Incunabulum. Bodmer 47 uses "quom" which is the most archaic form of cum. However, the incunabulum, which is older, uses "quum." It is odd that the newer manuscript uses the older form of cum...this likely happened because the spelling was not standardized
 
     B47:
     
@@ -738,7 +742,7 @@ Archaisms:
     
     ![image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/bodlian30/2019a/bodlian30_58.tif&RGN=0.3884,0.6714,0.04210,0.01658&wID=250&CVT=JPEG)
 
-- moesta vs. maesta
+- moesta vs. maesta (Line 379)
 
     B47:
     
@@ -748,7 +752,7 @@ Archaisms:
     
     does not have this line at all...we are comparing to Thompson's 'maesta'
     
-- submisso vs. summisso
+- submisso vs. summisso (Line 370)
 
     B47:
     
